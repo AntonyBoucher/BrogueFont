@@ -1,8 +1,10 @@
 # Monospace Font for Brogue CE
 
-A picture speaks a thousand words:
+A picture is worth a thousand words:
 
 ![Minidungeon as text in LibreOffice](/sample.png)
+
+Characters' aspect ratio is 16:29 (same as `font-10.png` and `tiles-10.png` in Brogue CE 1.9).
 
 ## Unicode Codepoints
 
