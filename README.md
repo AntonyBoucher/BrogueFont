@@ -6,6 +6,8 @@ A picture is worth a thousand words:
 
 Characters' aspect ratio is 16:29 (same as `font-10.png` and `tiles-10.png` in Brogue CE 1.9).
 
+The font was built with FontForge.
+
 ## Unicode Codepoints
 
 Latin-1 is in the usual range 32--255.
