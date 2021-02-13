@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1612733725
-ModificationTime: 1613105570
+ModificationTime: 1613233165
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,6 +36,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: UnicodeBmp
@@ -44,10 +45,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 247 19 14
+WinInfo: 1729 19 14
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65536 386
+BeginChars: 65536 390
 
 StartChar: space
 Encoding: 32 32 0
@@ -22178,6 +22179,124 @@ SplineSet
  241 162 217 193 217 225 c 0
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: uni03DE
+Encoding: 990 990 386
+Width: 565
+VWidth: 0
+Flags: W
+HStem: 283 61<195.01 376.99>
+LayerCount: 2
+Fore
+SplineSet
+154 444 m 2
+ 217 600 l 1
+ 253 600 l 2
+ 283 600 288 600 288 597 c 0
+ 288 576 195 348 195 348 c 1
+ 195 344 208 345 335 344 c 2
+ 476 343 l 1
+ 426 225 377 106 327 -12 c 1
+ 301 -12 276 -13 250 -13 c 1
+ 255 -0 l 1
+ 278 52 377 276 377 279 c 0
+ 377 283 364 283 234 283 c 0
+ 122 283 91 283 91 285 c 0
+ 92 287 120 358 154 444 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni29EB
+Encoding: 10731 10731 387
+Width: 565
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+55 228 m 1
+ 130 303 206 380 281 455 c 1
+ 508 228 l 1
+ 396 116 l 2
+ 334 54 282 4 281 4 c 0
+ 280 4 229 54 167 116 c 2
+ 55 228 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni03F4
+Encoding: 1012 1012 388
+Width: 565
+VWidth: 0
+Flags: W
+HStem: -3 55<223.358 337.24> 260 58<170 397> 508 56<228.5 339.251>
+VStem: 100 67<237 260 318 334> 398 67<243 260 318 427.963>
+LayerCount: 2
+Fore
+SplineSet
+100 273 m 0
+ 100 405 139 497 205 541 c 0
+ 227 556 253 564 284 564 c 0
+ 297 564 312 563 327 559 c 0
+ 416 537 465 438 465 285 c 0
+ 465 177 436 86 385 37 c 0
+ 370 23 347 9 328 3 c 0
+ 313 -2 306 -3 280 -3 c 0
+ 246 -3 232 0 205 13 c 0
+ 180 25 153 54 138 83 c 0
+ 112 133 100 188 100 273 c 0
+397 318 m 1
+ 386 430 364 490 306 505 c 0
+ 299 507 291 508 284 508 c 0
+ 209 508 179 416 171 334 c 1
+ 170 318 l 1
+ 397 318 l 1
+396 243 m 1
+ 398 260 l 1
+ 321 260 244 260 167 260 c 1
+ 169 237 l 1
+ 177 116 216 52 281 52 c 0
+ 308 52 321 59 339 76 c 0
+ 372 106 389 157 396 243 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni04E8
+Encoding: 1256 1256 389
+Width: 565
+VWidth: 0
+Flags: W
+HStem: -3 55<223.358 337.24> 260 58<170 397> 508 56<228.5 339.251>
+VStem: 100 67<237 260 318 334> 398 67<243 260 318 427.963>
+LayerCount: 2
+Fore
+SplineSet
+100 273 m 0
+ 100 405 139 497 205 541 c 0
+ 227 556 253 564 284 564 c 0
+ 297 564 312 563 327 559 c 0
+ 416 537 465 438 465 285 c 0
+ 465 177 436 86 385 37 c 0
+ 370 23 347 9 328 3 c 0
+ 313 -2 306 -3 280 -3 c 0
+ 246 -3 232 0 205 13 c 0
+ 180 25 153 54 138 83 c 0
+ 112 133 100 188 100 273 c 0
+397 318 m 1
+ 386 430 364 490 306 505 c 0
+ 299 507 291 508 284 508 c 0
+ 209 508 179 416 171 334 c 1
+ 170 318 l 1
+ 397 318 l 1
+396 243 m 1
+ 398 260 l 1
+ 321 260 244 260 167 260 c 1
+ 169 237 l 1
+ 177 116 216 52 281 52 c 0
+ 308 52 321 59 339 76 c 0
+ 372 106 389 157 396 243 c 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
