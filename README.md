@@ -16,7 +16,7 @@ Latin-1 is in the usual range 32–255.
 
 Graphic tiles are codepoints 256–383 (U+0100 to U+017F).
 
-The symbols (arrows, Aries, Omega, etc.) are codepoints 384–411 (U+0180 to U+019B).
+The symbols (arrows, Aries, Omega, etc.) are in their usual unicode codepoints (e.g U+2191 for Up arrow) but also duplicated into range 128-155 (U+0080 to U+009F).
 
 ![Character map](/samples/charmap.png)
 
